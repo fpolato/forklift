@@ -1,0 +1,14 @@
+INSTALLAZIONE ANGULAR
+(vedere https://angular.io/guide/quickstart)
+Richiede l'ultima versione di nodejs e npm.
+
+Digitare il comando:
+npm install -g @angular/cli
+
+CREARE UN NUOVO PROGETTO
+Digitare il comando:
+ng new my-app
+
+AVVIARE APPLICAZIONE
+Digitare il comando:
+ng serve --open
